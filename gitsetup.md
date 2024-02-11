@@ -38,5 +38,15 @@
 2: git branch<br>
 3: git checkout main<br>
 4: git branch -d {name}<br>
-<i>(pull content from github)</i>
-% git pull origin main<br>
+<i>(pull content from github)</i><br>
+%  git pull origin main<br>
+<i>(merge request)</i><br>
+%  git merge main<br>
+<i>(Undoing Changes)</i><br>
+%git log<br>
+1: git reset [filename]<br>
+2: git reset<br>
+3: git reset Head~1<br>
+4: git reset <-commit has-><br>
+5:git reset --hard <-commit has->
+
