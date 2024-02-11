@@ -38,3 +38,5 @@
 2: git branch<br>
 3: git checkout main<br>
 4: git branch -d {name}<br>
+<i>(pull content from github)</i>
+% git pull origin main<br>
