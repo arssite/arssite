@@ -31,3 +31,10 @@
 6:  git branch<br>
 7:  git branch -m main <i>if not main</i>
 8:  git push -u origin main
+<br>
+<hr><br>
+<i>create branch and delete </i><br>
+1: git checkout -b {name}<br>
+2: git branch<br>
+3: git checkout main<br>
+4: git branch -d {name}<br>
