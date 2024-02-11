@@ -18,4 +18,16 @@
 14: to add a file % git add filename/.<br>
 15: git push origin main<br>
 16: git status<br>
-
+<br>
+<hr>
+<br>
+<i>(creating new repo)</i> (use cd..& mkdir)<br>
+1:  git init<br>
+(now add file)<br>
+2:  git commit -m ""<br>
+3:  create new repo in github and copy https link<br>
+4:  git remote add origin <-link-><br>
+5:  git remote -v<br>
+6:  git branch<br>
+7:  git branch -m main <i>if not main</i>
+8:  git push -u origin main
