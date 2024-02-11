@@ -13,9 +13,9 @@
 9:  create/open a folder<br>
 10: open terminal & check git version to know its access<br>
 11: start clone a Repository by Https so go to Github Repo and copy HTTPS Link by clicking on <>Code icon on the right-down side of your repo name<br>
-12: git clone [paste link here]
-13: cd [repo name]
-14: to add a file % git add filename
-15: git push origin main
-16: git status
+12: git clone [paste link here] <br>
+13: cd [repo name]<br>
+14: to add a file % git add filename/.<br>
+15: git push origin main<br>
+16: git status<br>
 
