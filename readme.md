@@ -13,7 +13,8 @@
 
 - 📝 articles on [https://medium.com/@ars.](https://medium.com/@ars.)
 
-- 📫 How to reach me **arssite2020@gmail.com**
+- Email **arssite2020@gmail.com**
+- 📫 How to reach me **https://topmate.io/anmol_r_srivastava**
 
 - ⚡ Fun fact **pampering python, java, anaconda and they still show me error many times <weep>**
 
