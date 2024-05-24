@@ -8,11 +8,13 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Hyperledger Fabric**
+  
 - <a href="https://arssite.github.io/ars_profile/">Certification & License 
 
 
+- All Handles & Links  [Linktr.ee](https://linktr.ee/anmol.r.srivastava)
 
-- 📝 articles on [https://medium.com/@ars.](https://medium.com/@ars.)
+- 📝 articles on [ARS Write](https://medium.com/@ars.)
 
 - Email **arssite2020@gmail.com**
 - 📫 How to reach me **https://topmate.io/anmol_r_srivastava**
