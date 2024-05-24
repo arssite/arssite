@@ -1,4 +1,5 @@
 <h1 align="center">Hi Debuggers 👋, I'm Anmol R Srivastava</h1>
+<img src="biogif.gif">
 <h3 align="center">Puruguramu <br>Digging in the Field of AI & ML</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arssite&label=Profile%20views&color=0e75b6&style=flat" alt="arssite" /> </p>
@@ -42,5 +43,6 @@
 <a href="https://www.codechef.com/users/arsdesibawa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="arsdesibawa" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/ars____" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ars____" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/arsdesibawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arsdesibawa" height="30" width="40" /></a>
+  
 </p>
 
