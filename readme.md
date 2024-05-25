@@ -8,6 +8,17 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+<h3 align="center">About Me<br></h3>
+---
+<p>
+I am currently pursuing a Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning. Throughout my academic journey, I have demonstrated resilience, diligence, and a strong sense of responsibility in my work. My experience includes winning and participating in various hackathons, ideation challenges like Toyothons, and numerous coding competitions.
+
+During my coursework, I have gained proficiency in programming languages such as Python and JavaScript, as well as web development technologies including HTML, CSS, JavaScript, PHP, Django, and Flask. I am also well-versed in databases like MySQL, MariaDB, MongoDB, and Pinecone. Additionally, I have practical experience with large language models and LangChain, showcasing my ability to handle complex AI tools.
+
+I possess an in-depth knowledge of machine learning, deep learning, and natural language processing (NLP) models. My enthusiasm for Artificial Intelligence drives me to contribute to both present and future generations through innovative solutions.
+
+I am actively seeking opportunities where I can apply my skills and knowledge to make meaningful contributions and continue my professional growth. </p>
+
 - 🔭 I’m currently working on **Hyperledger Fabric**
   
 - <a href="https://arssite.github.io/ars_profile/">Certification & License 
