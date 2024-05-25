@@ -1,5 +1,5 @@
 <h1 align="center">Hi Debuggers 👋, I'm Anmol R Srivastava</h1> 
-<h3 align="center">Puruguramu <br>Digging in the Field of AI & ML</h3>
+<p align="center"><b>Puruguramu | Agile Methodology Developer | Data Explorer</p>
 <img src="biogif.gif">
 
 
@@ -18,10 +18,12 @@ During my coursework, I have gained proficiency in programming languages such as
 
 I possess an in-depth knowledge of machine learning, deep learning, and natural language processing (NLP) models. My enthusiasm for Artificial Intelligence drives me to contribute to both present and future generations through innovative solutions.
 
-I am actively seeking opportunities where I can apply my skills and knowledge to make meaningful contributions and continue my professional growth. </p>
+I am actively seeking opportunities where I can apply my skills and knowledge to make meaningful contributions and continue my professional growth. </p><br>
 
 - 🔭 I’m currently working on **Hyperledger Fabric**
-  
+  <br>
+  <h3 align="center">Quick Links<br></h3>
+---
 - <a href="https://arssite.github.io/ars_profile/">Certification & License 
 
 
@@ -31,8 +33,12 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 
 - Email **arssite2020@gmail.com**
 - 📫 How to reach me **https://topmate.io/anmol_r_srivastava**
+- [StackoverFlow](https://stackoverflow.com/users/25194835/ars)
+- [LinkedIn](https://www.linkedin.com/in/anmol-r-srivastava?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [Instagram](https://www.instagram.com/ars_desibawa)
+- [GeeksForGeeks](https://www.geeksforgeeks.org/user/arsdesibawa/)
 
-- ⚡ Fun fact **pampering python, java, anaconda and they still show me error many times <weep>**
+
 
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arssite&show_icons=true&locale=en&layout=compact" alt="arssite" /></p>
