@@ -1,4 +1,4 @@
-<h1 align="center">Hi Debuggers 👋, I'm Anmol R Srivastava</h1> 
+<h1 align="center">Hi Debuggers 👋, I'm Anmol R. Srivastava</h1> 
 <p align="center"><b>Puruguramu | Agile Methodology Developer | Data Explorer</p>
 <img src="biogif.gif">
 
