@@ -24,7 +24,7 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
   <br>
 - ⚡ Fun fact :   **In Hindu mythology, the concept of artificial intelligence can be traced back to the story of the goddess Saraswati, who created the "Chintamani" stone. This magical gem was said to grant the user infinite knowledge and wisdom. In a way, modern AI systems, particularly those used in data analysis and decision-making, are like our own versions of Chintamani, helping us unlock vast amounts of knowledge and make informed decisions. As you specialize in AI and Machine Learning, you're helping to create the modern-day "Chintamani" that empowers humanity with unprecedented insights and capabilities!**
   <br>
-  <h3 align="center">Quick Links<br></h3>
+  <h3 align="center">Quick Links <br></h3>
 ---
 - <a href="https://arssite.github.io/ars_profile/">Certification & License 
 
