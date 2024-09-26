@@ -29,7 +29,7 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 
 
 
--  <a href="https://arssiteprofile.netlify.app/">Portfolio</a>
+-  <a href="https://arssiteportfolio.netlify.app/">Portfolio</a>
 - <a href="https://arssite.github.io/ars_profile/">Certification & License 
 - All Handles & Links  [Linktr.ee](https://linktr.ee/anmol.r.srivastava)
 
