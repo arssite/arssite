@@ -27,7 +27,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
   
   <h3 align="center">Quick Links <br></h3>
 
-
+-  <a href="https://oonearssite.netlify.app/"><kbd> &nbsp;&nbsp; Play O0ne  &nbsp;&nbsp; </a></kbd>
 -  <a href="https://arssiteportfolio.netlify.app/"><kbd> &nbsp;&nbsp; Portfolio  &nbsp;&nbsp; </a></kbd>
 - <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
 - <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
@@ -76,8 +76,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 <br>
-<br>
-<p>----------------------------------------------------------------</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
