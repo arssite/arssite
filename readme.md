@@ -1,5 +1,5 @@
 <h1 align="center">Hi Debuggers 👋, I'm Anmol R. Srivastava</h1> 
-<p align="center"><b>Puruguramu | Agile Methodology Developer | Data Explorer & Generator</p>
+<p align="center"><b>Programmer | Agile Methodology Developer | Data Explorer & Generator</p>
 <img src="biogif.gif">
 
 
@@ -32,7 +32,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 - <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
 - <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
 - <a href="https://medium.com/@ars."><kbd> &nbsp;&nbsp; Blog & Articles  &nbsp;&nbsp; </a></kbd>
--  <a href="https://oonearssite.netlify.app/#hobbies"><kbd> &nbsp;&nbsp; Hobbies & Interest  &nbsp;&nbsp; </a></kbd>
+-  <a href="https://arssiteportfolio.netlify.app/#hobbies"><kbd> &nbsp;&nbsp; Hobbies & Interest  &nbsp;&nbsp; </a></kbd>
 - <a href="https://arssiteportfolio.netlify.app/#services"><kbd> &nbsp;&nbsp; Services as Freelancer  &nbsp;&nbsp; </a></kbd>
 - <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
 - <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> 
