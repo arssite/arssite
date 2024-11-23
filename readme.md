@@ -31,8 +31,8 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 - <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
 - <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
 - <a href="https://medium.com/@ars."><kbd> &nbsp;&nbsp; Blog & Articles  &nbsp;&nbsp; </a></kbd>
-- Email **arssite2020@gmail.com**
-- 📫 How to reach me **https://topmate.io/anmol_r_srivastava**
+- <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
+- <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> ****
 
 
 
