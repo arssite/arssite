@@ -57,7 +57,9 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arssite&" alt="arssite" /></p>
 
-
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-r-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-r-srivastava" height="30" width="40" /></a>
