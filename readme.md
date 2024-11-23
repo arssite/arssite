@@ -67,7 +67,7 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 <!-- /Guestbook -->
 <br>
 <div align="center">
-<a href="https://github.com/arssite/arssite/issues/62#issuecomment-new"><img src="images/guestbook.svg"></a> 
+<a href="https://github.com/arssite/arssite/issues/#issuecomment-new">Add Your Review</a> 
 </div>
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
