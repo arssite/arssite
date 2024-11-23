@@ -46,7 +46,7 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 
 <br>
 <p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arssite&show_icons=true&locale=en&layout=compact" alt="arssite" />&nbsp;&nbsp;&nbsp;
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arssite&show_icons=true&locale=en" alt="arssite" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arssite&" alt="arssite" /></p>
+&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arssite&show_icons=true&locale=en" alt="arssite" /><br><br><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arssite&" alt="arssite" /></p>
 
 </p>
 <br>
