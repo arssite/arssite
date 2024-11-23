@@ -69,13 +69,16 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 <br>
 
 <blockquote class="twitter-tweet"><p lang="hi" dir="ltr"><a href="https://twitter.com/arssite_?ref_src=twsrc%5Etfw">@arssite_</a> <a href="https://twitter.com/hashtag/ars?src=hash&amp;ref_src=twsrc%5Etfw">#ars</a><br><br>चाय की चुस्की और कोड की बारी,<br>हर लाइन में छुपी है मेरी खुमारी।<br>बग्स से लड़ना रोज़ का काम है, <br>पर हर फिक्स में छुपा मेरा अंजाम है।<br>
-<a href="https://twitter.com/hashtag/SoftwareDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareDevelopment</a> <a href="https://twitter.com/hashtag/SoftwareEngineer?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineer</a> <a href="https://twitter.com/hashtag/CodeLife?src=hash&amp;ref_src=twsrc%5Etfw">#CodeLife</a> <a href="https://twitter.com/hashtag/AnmolRSrivastava?src=hash&amp;ref_src=twsrc%5Etfw">#AnmolRSrivastava</a> <a href="https://twitter.com/hashtag/CodingJourney?src=hash&amp;ref_src=twsrc%5Etfw">#CodingJourney</a> <a href="https://twitter.com/hashtag/SoftwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineering</a> <a href="https://twitter.com/hashtag/programmer?src=hash&amp;ref_src=twsrc%5Etfw">#programmer</a> <a href="https://twitter.com/hashtag/chaiaurcode?src=hash&amp;ref_src=twsrc%5Etfw">#chaiaurcode</a></p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1855641551755411593?ref_src=twsrc%5Etfw">November 10, 2024</a></blockquote> 
-<br><a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd><br>
-<br><p>----------------------------------------------------------------</p>
+</p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1855641551755411593?ref_src=twsrc%5Etfw">November 10, 2024</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd></blockquote> 
+<br><br>
 
 <p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
+<br>
+<br>
+<p>----------------------------------------------------------------</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anmol-r-srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol-r-srivastava" height="30" width="40" /></a>
