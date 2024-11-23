@@ -10,29 +10,30 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="center">About Me<br></h3>
----
 <p>
-I am currently pursuing a Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence and Machine Learning. Throughout my academic journey, I have demonstrated resilience, diligence, and a strong sense of responsibility in my work. My experience includes winning and participating in various hackathons, ideation challenges like Toyothons, and numerous coding competitions.
+I am Anmol R Srivastava, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in May 2025. With a passion for technology and innovation, I have developed expertise in Generative AI, Machine Learning, Data Analysis, and cloud computing. My academic and professional experiences include winning and participating in multiple hackathons, coding challenges, and ideathons, which have honed my problem-solving and collaborative skills while deepening my knowledge of agile methodologies.
+I have successfully executed projects such as a GenAI-powered Document Retrieval Chatbot, a Drowsiness Detection System using CNN, and a real-time collaboration tool. My contributions have been recognized in competitions like Code for Good 2025 at JPMorgan Chase & Co., where I excelled through multiple rigorous rounds.
+In addition to my technical prowess, I am a member of CSI and IEEE, reflecting my active engagement in the tech community. I am also skilled in full-stack development and cloud-based deployment and have experience in Amazon Neptune graph databases.
+I aspire to continue working on impactful projects in AI-driven solutions, scalable architectures, and cutting-edge technologies, leveraging my knowledge and achievements to create meaningful contributions. </p><br>
+<br>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/arssite_?ref_src=twsrc%5Etfw">@arssite_</a> <a href="https://twitter.com/hashtag/ars?src=hash&amp;ref_src=twsrc%5Etfw">#ars</a><br><br>Bugs in my code, yet dreams in my sight,<br>Chasing solutions through endless nights.<br>Failures and fixes, it’s all in the game,<br>The life of a coder, no two days the same.</p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1850212192651469062?ref_src=twsrc%5Etfw">October 26, 2024</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd></blockquote>
+<br>
 
-During my coursework, I have gained proficiency in programming languages such as Python and JavaScript, as well as web development technologies including HTML, CSS, JavaScript, PHP, Django, and Flask. I am also well-versed in databases like MySQL, MariaDB, MongoDB, and Pinecone. Additionally, I have practical experience with large language models and LangChain, showcasing my ability to handle complex AI tools.
-
-I possess an in-depth knowledge of machine learning, deep learning, and natural language processing (NLP) models. My enthusiasm for Artificial Intelligence drives me to contribute to both present and future generations through innovative solutions.
-
-I am actively seeking opportunities where I can apply my skills and knowledge to make meaningful contributions and continue my professional growth. </p><br>
-
+<br>
 - 🔭 I’m currently working and Learning **Hyperledger Fabric**
   <br>
 - ⚡ Fun fact :   **In Hindu mythology, the concept of artificial intelligence can be traced back to the story of the goddess Saraswati, who created the "Chintamani" stone. This magical gem was said to grant the user infinite knowledge and wisdom. In a way, modern AI systems, particularly those used in data analysis and decision-making, are like our own versions of Chintamani, helping us unlock vast amounts of knowledge and make informed decisions. As you specialize in AI and Machine Learning, you're helping to create the modern-day "Chintamani" that empowers humanity with unprecedented insights and capabilities!**
   <br>
+  
   <h3 align="center">Quick Links <br></h3>
----
+
 
 -  <a href="https://arssiteportfolio.netlify.app/"><kbd> &nbsp;&nbsp; Portfolio  &nbsp;&nbsp; </a></kbd>
 - <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
 - <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
 - <a href="https://medium.com/@ars."><kbd> &nbsp;&nbsp; Blog & Articles  &nbsp;&nbsp; </a></kbd>
 - <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
-- <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> ****
+- <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> 
 
 
 
@@ -64,7 +65,15 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 <!-- /Guestbook -->
 
 <br>
-<p align="center">
+<h3 align="left">Chai - Code - Cherish a melody</h3>
+<br>
+
+<blockquote class="twitter-tweet"><p lang="hi" dir="ltr"><a href="https://twitter.com/arssite_?ref_src=twsrc%5Etfw">@arssite_</a> <a href="https://twitter.com/hashtag/ars?src=hash&amp;ref_src=twsrc%5Etfw">#ars</a><br><br>चाय की चुस्की और कोड की बारी,<br>हर लाइन में छुपी है मेरी खुमारी।<br>बग्स से लड़ना रोज़ का काम है, <br>पर हर फिक्स में छुपा मेरा अंजाम है।<br>
+<a href="https://twitter.com/hashtag/SoftwareDevelopment?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareDevelopment</a> <a href="https://twitter.com/hashtag/SoftwareEngineer?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineer</a> <a href="https://twitter.com/hashtag/CodeLife?src=hash&amp;ref_src=twsrc%5Etfw">#CodeLife</a> <a href="https://twitter.com/hashtag/AnmolRSrivastava?src=hash&amp;ref_src=twsrc%5Etfw">#AnmolRSrivastava</a> <a href="https://twitter.com/hashtag/CodingJourney?src=hash&amp;ref_src=twsrc%5Etfw">#CodingJourney</a> <a href="https://twitter.com/hashtag/SoftwareEngineering?src=hash&amp;ref_src=twsrc%5Etfw">#SoftwareEngineering</a> <a href="https://twitter.com/hashtag/programmer?src=hash&amp;ref_src=twsrc%5Etfw">#programmer</a> <a href="https://twitter.com/hashtag/chaiaurcode?src=hash&amp;ref_src=twsrc%5Etfw">#chaiaurcode</a></p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1855641551755411593?ref_src=twsrc%5Etfw">November 10, 2024</a></blockquote> 
+<br><a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd><br>
+<br><p>----------------------------------------------------------------</p>
+
+<p align="left">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
 </p>
 <h3 align="left">Connect with me:</h3>
