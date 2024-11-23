@@ -45,7 +45,10 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 
 
 <br>
-<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arssite&show_icons=true&locale=en&layout=compact" alt="arssite" /></p>
+<p ><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=arssite&show_icons=true&locale=en&layout=compact" alt="arssite" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arssite&show_icons=true&locale=en" alt="arssite" />&nbsp;&nbsp;&nbsp;&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arssite&" alt="arssite" /></p>
+
+</p>
 <br>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -53,9 +56,6 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
 <br>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arssite&show_icons=true&locale=en" alt="arssite" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arssite&" alt="arssite" /></p>
 
 <p align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=11147618695&count=5">
