@@ -27,14 +27,10 @@ I am actively seeking opportunities where I can apply my skills and knowledge to
   <h3 align="center">Quick Links <br></h3>
 ---
 
-
-
--  <a href="https://arssiteportfolio.netlify.app/">Portfolio</a>
-- <a href="https://arssite.github.io/ars_profile/">Certification & License 
-- All Handles & Links  [Linktr.ee](https://linktr.ee/anmol.r.srivastava)
-
-- 📝 articles on [ARS Write](https://medium.com/@ars.)
-
+-  <a href="https://arssiteportfolio.netlify.app/"><kbd> &nbsp;&nbsp; Portfolio  &nbsp;&nbsp; </a></kbd>
+- <a href="https://arssite.github.io/ars_profile/"><kbd> &nbsp;&nbsp;Certification & License &nbsp;&nbsp;</kbd></a> 
+- <a href="https://linktr.ee/anmol.r.srivastava"><kbd> &nbsp;&nbsp; Linktr.ee  &nbsp;&nbsp; </a></kbd>
+- <a href="https://medium.com/@ars."><kbd> &nbsp;&nbsp; Blog & Articles  &nbsp;&nbsp; </a></kbd>
 - Email **arssite2020@gmail.com**
 - 📫 How to reach me **https://topmate.io/anmol_r_srivastava**
 - [StackoverFlow](https://stackoverflow.com/users/25194835/ars)
