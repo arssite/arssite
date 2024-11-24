@@ -37,7 +37,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 - <a href="https://arssiteportfolio.netlify.app/#services"><kbd> &nbsp;&nbsp; Services as Freelancer  &nbsp;&nbsp; </a></kbd>
 - <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
 - <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> 
-- [![Hugging Face Deployment](https://img.shields.io/badge/Hugging%20Face-Deployment-blue)](https://huggingface.co/spaces/arssite)<br>
+- [![Hugging Face Deployment](https://img.shields.io/badge/Hugging%20Face-Deployment-blue)](https://huggingface.co/arssite)<br>
 
 
 
