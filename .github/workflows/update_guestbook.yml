@@ -1,0 +1,51 @@
+name: Update Guestbook
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v3
+
+    - name: Fetch Issues Comments Data
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      run: |
+        # Fetch latest issue comments
+        curl -H "Authorization: token $GITHUB_TOKEN" \
+          https://api.github.com/repos/${{ github.repository }}/issues/comments?per_page=5 > comments.json
+
+        # Generate guestbook content
+        node -e "
+        const fs = require('fs');
+        const comments = JSON.parse(fs.readFileSync('comments.json', 'utf8'));
+        const guestbookRows = comments.map(comment => {
+          const username = comment.user.login;
+          const avatarUrl = comment.user.avatar_url;
+          const profileUrl = comment.user.html_url;
+          const date = new Date(comment.created_at).toLocaleString();
+          const message = comment.body.split('\\n')[0].replace(/\\|/g, ''); // First line only, remove pipe characters to prevent table break
+          return \`| <a href='\${profileUrl}'><img width='24' src='\${avatarUrl}' alt='\${username}' /> \${username}</a> | \${date} | \${message} |\`;
+        }).join('\\n');
+        const guestbookTable = \`| Name | Date | Message |\\n|---|---|---|\\n\${guestbookRows}\`;
+        const readme = fs.readFileSync('README.md', 'utf8');
+        const updatedReadme = readme.replace(
+          /<!-- Guestbook -->[\\s\\S]*<!-- \\/Guestbook -->/,
+          \`<!-- Guestbook -->\\n\${guestbookTable}\\n<!-- /Guestbook -->\`
+        );
+        fs.writeFileSync('README.md', updatedReadme);
+        "
+
+    - name: Commit Changes
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add README.md
+        git commit -m "Update guestbook with latest comments" || echo "No changes to commit"
+        git push
