@@ -92,5 +92,6 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 <a href="https://auth.geeksforgeeks.org/user/arsdesibawa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="arsdesibawa" height="30" width="40" /></a> 
 <a href="https://twitter.com/arssite_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arssite_" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/25194835/ars" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25194835/ars" height="30" width="40" /></a>
+<a href="https://instagram.com/arssite__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anmol" height="30" width="40" /></a>
 </p>
 
