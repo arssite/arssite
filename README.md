@@ -19,6 +19,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/arssite_?ref_src=twsrc%5Etfw">@arssite_</a> <a href="https://twitter.com/hashtag/ars?src=hash&amp;ref_src=twsrc%5Etfw">#ars</a><br><br>Bugs in my code, yet dreams in my sight,<br>Chasing solutions through endless nights.<br>Failures and fixes, it’s all in the game,<br>The life of a coder, no two days the same.</p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1850212192651469062?ref_src=twsrc%5Etfw">October 26, 2024</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd></blockquote>
 <br>
 
+
 <br>
 - 🔭 I’m currently working and Learning **Hyperledger Fabric**
   <br>
@@ -36,7 +37,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 - <a href="https://arssiteportfolio.netlify.app/#services"><kbd> &nbsp;&nbsp; Services as Freelancer  &nbsp;&nbsp; </a></kbd>
 - <a href="mailto:name@email.com"><kbd>&nbsp;&nbsp; Email&nbsp;&nbsp; </a></kbd> &nbsp;&nbsp; **arssite2020@gmail.com**
 - <a href="https://topmate.io/anmol_r_srivastava"><kbd> &nbsp;&nbsp; Meet 1:1 Connect  &nbsp;&nbsp; </a></kbd> 
-
+- [![Hugging Face Deployment](https://img.shields.io/badge/Hugging%20Face-Deployment-blue)](https://huggingface.co/spaces/arssite)<br>
 
 
 
