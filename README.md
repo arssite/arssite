@@ -58,7 +58,7 @@ I aspire to continue working on impactful projects in AI-driven solutions, scala
 ## Guestbook
 | Name | Date | Message |
 |---|---|---|
-| <a href=""><img width="24" src="https://avatars.githubusercontent.com/u/91518669?s=24&u=d6eea26068f1b2ec5775cc0ec97a8e375e38ca46&v=4" alt="arssite" /> Musky</a> | 11/24/2024, 2:00 PM | Great Profile |
+| <a href=""><img width="24" src="" alt="musky" /> Musky</a> | 11/24/2024, 2:00 PM | Great Profile |
 | <a href="https://github.com/JohnDoe"><img width="24" src="https://avatars.githubusercontent.com/u/12345678?v=4" alt="JohnDoe" /> JohnDoe</a> | 11/23/2024, 6:45 PM | Love your project! |
 | <a href="https://github.com/JaneSmith"><img width="24" src="https://avatars.githubusercontent.com/u/87654321?v=4" alt="JaneSmith" /> JaneSmith</a> | 11/23/2024, 3:15 PM | Awesome work! |
 | <a href="https://github.com/Chris99"><img width="24" src="https://avatars.githubusercontent.com/u/98765432?v=4" alt="Chris99" /> Chris99</a> | 11/22/2024, 9:30 AM | Keep it up! |
