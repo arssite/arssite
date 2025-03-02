@@ -12,11 +12,15 @@
 <h3 align="center">About Me<br></h3>
  
 <div align="center">
-  <th><img src="icegif-1393.gif" width="100px" height="100px"></th>
+  <th><img src="icegif-1393.gif" width="100px" height="100px"> </th>
   <table  style="border-collapse: collapse; border: none;" border="none">
     <tr>
       <td width="30%">
         <img src="WhatsApp Image 2025-02-24 at 11.31.53_b2bb3abe.jpg" width="250px" height="250px">
+       <a href="https://drive.google.com/file/d/1mcdu--u2ZPBUGJaRC54PsaspZKjRE8qb/view?usp=sharing">
+        <br> <br>
+  <strong align="center"><font size="15"> Preview & Download ➡️➡️ Resume</font></strong>
+</a>
       </td>
       <td width="70%">
         <p>
@@ -31,6 +35,8 @@
       </td>
     </tr>
   </table>
+
+
 </div>
 
 
