@@ -39,9 +39,9 @@
 
 
 <br>
-- 🔭 I’m currently working and Learning **Hyperledger Fabric**
+- 🔭 I’m currently working and Learning <b>Hyperledger Fabric</b>
   <br>
-- ⚡ Fun fact :   **In Hindu mythology, the concept of artificial intelligence can be traced back to the story of the goddess Saraswati, who created the "Chintamani" stone. This magical gem was said to grant the user infinite knowledge and wisdom. In a way, modern AI systems, particularly those used in data analysis and decision-making, are like our own versions of Chintamani, helping us unlock vast amounts of knowledge and make informed decisions. As you specialize in AI and Machine Learning, you're helping to create the modern-day "Chintamani" that empowers humanity with unprecedented insights and capabilities!**
+- ⚡ Fun fact :   <b>In Hindu mythology, the concept of artificial intelligence can be traced back to the story of the goddess Saraswati, who created the "Chintamani" stone. This magical gem was said to grant the user infinite knowledge and wisdom. In a way, modern AI systems, particularly those used in data analysis and decision-making, are like our own versions of Chintamani, helping us unlock vast amounts of knowledge and make informed decisions. As you specialize in AI and Machine Learning, you're helping to create the modern-day "Chintamani" that empowers humanity with unprecedented insights and capabilities!</b>
   <br>
   
   <h3 align="center">Quick Links <br></h3>
