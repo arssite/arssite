@@ -9,10 +9,10 @@
 --->
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<h3 align="center">About Me<br></h3>
+<h3 align="center"><img src="icegif-1393.gif" width="100px" height="100px"> <br>About Me<br></h3>
  
 <div align="center">
-  <th><img src="icegif-1393.gif" width="100px" height="100px"> </th>
+  
   <table  style="border-collapse: collapse; border: none;" border="none">
     <tr>
       <td width="30%">
