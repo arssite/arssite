@@ -10,11 +10,29 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <h3 align="center">About Me<br></h3>
-<p>
-I am Anmol R Srivastava, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in May 2025. With a passion for technology and innovation, I have developed expertise in Generative AI, Machine Learning, Data Analysis, and cloud computing. My academic and professional experiences include winning and participating in multiple hackathons, coding challenges, and ideathons, which have honed my problem-solving and collaborative skills while deepening my knowledge of agile methodologies.
-I have successfully executed projects such as a GenAI-powered Document Retrieval Chatbot, a Drowsiness Detection System using CNN, and a real-time collaboration tool. My contributions have been recognized in competitions like Code for Good 2025 at JPMorgan Chase & Co., where I excelled through multiple rigorous rounds.
-In addition to my technical prowess, I am a member of CSI and IEEE, reflecting my active engagement in the tech community. I am also skilled in full-stack development and cloud-based deployment and have experience in Amazon Neptune graph databases.
-I aspire to continue working on impactful projects in AI-driven solutions, scalable architectures, and cutting-edge technologies, leveraging my knowledge and achievements to create meaningful contributions. </p><br>
+<div align="center">
+  <table  style="border-collapse: collapse; border: none;" border="none">
+    <tr>
+      <td width="30%">
+        <img src="WhatsApp Image 2025-02-24 at 11.31.53_b2bb3abe.jpg" width="250px" height="250px">
+      </td>
+      <td width="70%">
+        <p>
+          I am <b>Anmol R Srivastava</b>, a Computer Science Engineering student specializing in Artificial Intelligence and Machine Learning, graduating in May 2025. With a passion for technology and innovation, I have developed expertise in Generative AI, Machine Learning, Data Analysis, and Cloud Computing.
+        </p>
+        <p>
+          My academic and professional experiences include winning and participating in multiple hackathons, coding challenges, and ideathons, which have honed my problem-solving and collaborative skills while deepening my knowledge of agile methodologies. I have successfully executed projects such as a GenAI-powered Document Retrieval Chatbot, a Drowsiness Detection System using CNN, and a real-time collaboration tool.
+        </p>
+        <p>
+          My contributions have been recognized in competitions like <b>Code for Good 2025 at JPMorgan Chase & Co.</b>, where I excelled through multiple rigorous rounds. I am also a member of <b>CSI and IEEE</b>, reflecting my active engagement in the tech community.
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
+
+
+<br>
 <br>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/arssite_?ref_src=twsrc%5Etfw">@arssite_</a> <a href="https://twitter.com/hashtag/ars?src=hash&amp;ref_src=twsrc%5Etfw">#ars</a><br><br>Bugs in my code, yet dreams in my sight,<br>Chasing solutions through endless nights.<br>Failures and fixes, it’s all in the game,<br>The life of a coder, no two days the same.</p>&mdash; ARS (@arssite_) <a href="https://twitter.com/arssite_/status/1850212192651469062?ref_src=twsrc%5Etfw">October 26, 2024</a> &nbsp;&nbsp;&nbsp;&nbsp; <a href="https://twitter.com/arssite_"><kbd> &nbsp;&nbsp; Read More   &nbsp;&nbsp; </a></kbd></blockquote>
 <br>
