@@ -17,7 +17,7 @@
     <tr>
       <td width="30%">
         <img src="WhatsApp Image 2025-02-24 at 11.31.53_b2bb3abe.jpg" width="250px" height="250px">
-       <a href="https://drive.google.com/file/d/1mcdu--u2ZPBUGJaRC54PsaspZKjRE8qb/view?usp=sharing">
+       <a href="https://drive.google.com/file/d/1OrhkFBEGbtWNUaULTjvTZ8AFkXtD6kfU/view?usp=sharing">
         <br> <br>
   <strong align="center"><font size="15"> Preview & Download ➡️➡️ Resume</font></strong>
 </a>
